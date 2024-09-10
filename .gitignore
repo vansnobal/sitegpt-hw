@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*
+.idea
+.env
+.cache
+.ipynb_checkpoints
+.streamlit
+/venv
+cache.db
